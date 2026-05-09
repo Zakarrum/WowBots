@@ -1,8 +1,0 @@
-## Interface: 30300
-## Title: BotManager
-## Notes: UI panel for managing playerbot bots in your party
-## Author: AddonBuilder
-## Version: 1.0
-## SavedVariables: BotManagerDB
-
-BotManager.lua
